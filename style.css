@@ -1,5 +1,6 @@
-body{background-color:#ffe6e6}
-h1{background-color:#ff33ff;color:#e6f2ff;font-family:verdana}
-h2{background-color:#cce6ff;color:#c65353;font-family:verdana}
-div{background-color:#ffcc99;color:white;font:georgia}
-p{background-color:##4da6ff;color:#ffcccc}
+body{background-color:#70db70;}
+h1{background-color: #ffb366;color:#ff6666;font-family:verdana}
+h2,th{background-color:#ffff1a;color:#c65353;font-family:verdana}
+tr{background-color:#ffcc99;color:red;font:georgia}
+p{background-color:#ff1a66;color:#66b3ff}
+td{background-color:#ffb3b3;color:white}
